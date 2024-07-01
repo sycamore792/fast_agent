@@ -13,3 +13,11 @@ class Agent:
         """
         self.base_info = base_info
         self.action_logs_base = None
+
+
+    def run(self):
+        """
+        智能体开始运行
+        :return:
+        """
+        pass
